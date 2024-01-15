@@ -22,9 +22,23 @@ gallery:
   * 2040 aluminum extruson (1)
   * NEMA 17 stepper motor (1)
   * Arduino Uno (1)
+  * Small Breadboard (1)
   * MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp (1)
   * A4988 stepper driver (1)
-  * 
+  * Limit switch (1)
+  * Panel mount latching push buttons (1)
+  * RGB common Cathode LED (1)
+  * LM8UU linear bearing for 8 mm diameter rod (1)
+  * 200 mm linear rod with 8 mm diameter (1)
+  * 1/4'' x 8 mm flexible coupler
+  * 250 mm lead screw with 2 mm pitch and 2 mm lead (1)
+  * Lock collar (4)
+  * M3 x 8 mm Tread forming screws (4)
+  * Nut-tr8x84 (1)
+  * M5 x 8 mm Bolt (8)
+  * M5 Tee nut (8)
+  * F688ZZ flanged ball bearing (2)
+  * M3 x 10 mm Bolt (4)
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e973b13afc1f0ea1e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
