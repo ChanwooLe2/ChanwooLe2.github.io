@@ -19,7 +19,7 @@ gallery:
 ## Parts required
 
 * **Off-the-shelf parts**
-* 2040 aluminum extruson (1)
+  * 2040 aluminum extruson (1)
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e973b13afc1f0ea1e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
