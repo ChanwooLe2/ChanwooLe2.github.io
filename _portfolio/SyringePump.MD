@@ -23,27 +23,31 @@ header:
 | Arduino Uno | 1 |
 | Small breadboard | 1 |
 | MEAN WELL RQ-65D AC-DC Power Supply | 1 |
-  * A4988 stepper driver (1)
-  * Limit switch (1)
-  * Panel mount latching push buttons (1)
-  * RGB common Cathode LED (1)
-  * LM8UU linear bearing for 8 mm diameter rod (1)
-  * 200 mm linear rod with 8 mm diameter (1)
-  * 1/4'' x 8 mm flexible coupler
-  * 250 mm lead screw with 2 mm pitch and 2 mm lead (1)
-  * Lock collar (4)
-  * M3 x 8 mm Tread forming screws (4)
-  * Nut-tr8x84 (1)
-  * M5 x 8 mm Bolt (8)
-  * M5 Tee nut (8)
-  * F688ZZ flanged ball bearing (2)
-  * M3 x 10 mm Bolt (4)
+| A4988 stepper driver | 1 | 
+| Limit switch | 1 |
+| Panel mount latching push buttons | 1 |
+| RGB common Cathode LED | 1 |
+| LM8UU linear bearing for 8 mm diameter rod | 1 |
+| 200 mm linear rod with 8 mm diameter | 1 |
+| 1/4'' x 8 mm flexible coupler | 1 |
+| 250 mm lead screw with 2 mm pitch and 2 mm lead | 1 | 
+| Lock collar | 4 |
+| M3 x 8 mm Tread forming screws | 4 |
+| Nut-tr8x84 | 1 |
+| M5 x 8 mm Bolt | 8 |
+| M5 Tee nut | 8 |
+| F688ZZ flanged ball bearing | 2 |
+| M3 x 10 mm Bolt | 4 |
+
 * **3D printed parts**
-  * Motor Mount (1)
-  * End support no top (1)
-  * End support with top (1)
-  * Carriage (1)
-  * Syringe Stabilizer (1)
+
+| Part name | Quantity |
+| --- | --- |
+| Motor Mount | 1 |
+| End support no top | 1 |
+| End support with top | 1 |
+| Carriage | 1 |
+| Syringe Stabilizer | 1 |
 
 * **[Syringe pump code](https://github.com/ChanwooLeee/SyringePumpCode)**
 
