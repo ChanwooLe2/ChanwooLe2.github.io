@@ -20,6 +20,11 @@ gallery:
 
 * **Off-the-shelf parts**
   * 2040 aluminum extruson (1)
+  * NEMA 17 stepper motor (1)
+  * Arduino Uno (1)
+  * MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp (1)
+  * A4988 stepper driver (1)
+  * 
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e973b13afc1f0ea1e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
