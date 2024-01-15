@@ -15,7 +15,13 @@ header:
 ## Parts required
 
 * **Off-the-shelf parts**
-  * 2040 aluminum extruson (1)
+Part name | Quantity
+--- | ---
+2040 aluminum extruson | 1
+
+
+
+* 2040 aluminum extruson (1)
   * NEMA 17 stepper motor (1)
   * Arduino Uno (1)
   * Small Breadboard (1)
