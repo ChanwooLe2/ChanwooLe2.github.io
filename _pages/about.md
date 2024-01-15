@@ -1,31 +1,29 @@
 ---
 
-title: "About David Florian"
+title: "About Chanwoo Lee"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
+Though still an undergraduate first year student, Chanwoo loves mechanical design and using imagination to test various prototypes for a purpose. 
+
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * Expected Graduation year: 2027
+  * Expected degree: BS Mechanical Engineering
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Chanwoo has several years of experience in the field in 3D printing and continuously seeks to expand the number of machines he can operate.
 
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
 
-## Press 
+## Notable Experiences
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+Ever since he was a highschool student, Chanwoo has seeked to apply education into the real world in any way possible. Some of his more notable experiences are listed below.
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+* Integrity Precision Products
+   * In this metal fastener manufacturing company, Chanwoo has worked as a part-time student intern to learn how to operate various measuring tools like a shadowgram and, mainly, the CNC steel milling machine.
+* Dong Research Lab
+   * At Vanderbilt University, Chanwoo delves deeper into his interest in robotics to conduct research on microrobotics and, specifically, a dual locomotive swimming robot that can be used for underwater exploration.
