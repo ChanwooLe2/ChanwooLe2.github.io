@@ -39,6 +39,12 @@ gallery:
   * M5 Tee nut (8)
   * F688ZZ flanged ball bearing (2)
   * M3 x 10 mm Bolt (4)
+* **3D printed parts**
+  * Motor Mount (1)
+  * End support no top (1)
+  * End support with top (1)
+  * Carriage (1)
+  * Syringe Stabilizer (1)
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e973b13afc1f0ea1e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
