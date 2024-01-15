@@ -42,7 +42,7 @@ header:
   * Carriage (1)
   * Syringe Stabilizer (1)
 
-* **[Syringe pump code]**(https://github.com/ChanwooLeee/SyringePumpCode)
+* **[Syringe pump code](https://github.com/ChanwooLeee/SyringePumpCode)**
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e973b13afc1f0ea1e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
