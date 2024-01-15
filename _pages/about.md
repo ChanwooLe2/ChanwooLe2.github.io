@@ -18,12 +18,16 @@ Though still an undergraduate first year student, Chanwoo loves mechanical desig
 Chanwoo has several years of experience in the field in 3D printing and continuously seeks to expand the number of machines he can operate.
 
 * Fused Filament Fabrication (FFF)
+* Fusion 360
+* SOLIDWORKS
 
 ## Notable Experiences
 
 Ever since he was a highschool student, Chanwoo has sought to apply education into the real world in any way possible. Some of his more notable experiences are listed below.
 
 * Integrity Precision Products
-   * In this metal fastener manufacturing company, Chanwoo has worked as a part-time student intern to learn how to operate various measuring tools like a shadowgram and, mainly, the CNC steel milling machine.
+   * In this metal fastener manufacturing company, Chanwoo has worked as a part-time student assistant to learn how to operate various measuring tools like a shadowgram and, mainly, the CNC steel milling machine.
+* iPhone Repair Cafe
+   * At his father's company that focuses on repairing broken iPhones, Chanwoo worked as a part-time student assistant to examine issues with phones and explaining the problem and repair process. 
 * Dong Research Lab
    * At Vanderbilt University, Chanwoo delves deeper into his interest in robotics to conduct research on microrobotics and, specifically, a dual locomotive swimming robot that can be used for underwater exploration.
