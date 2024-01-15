@@ -19,14 +19,10 @@ header:
 | Part name | Quantity |
 | --- | --- |
 | 2040 aluminum extruson | 1 |
-
-
-
-* 2040 aluminum extruson (1)
-  * NEMA 17 stepper motor (1)
-  * Arduino Uno (1)
-  * Small Breadboard (1)
-  * MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp (1)
+| NEMA 17 stepper motor | 1 |
+| Arduino Uno | 1 |
+| Small breadboard | 1 |
+| MEAN WELL RQ-65D AC-DC Power Supply | 1 |
   * A4988 stepper driver (1)
   * Limit switch (1)
   * Panel mount latching push buttons (1)
