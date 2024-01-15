@@ -15,9 +15,10 @@ header:
 ## Parts required
 
 * **Off-the-shelf parts**
-Part name | Quantity
---- | ---
-2040 aluminum extruson | 1
+
+| Part name | Quantity |
+| --- | --- |
+| 2040 aluminum extruson | 1 |
 
 
 
