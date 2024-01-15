@@ -28,6 +28,6 @@ Ever since he was a highschool student, Chanwoo has sought to apply education in
 * Integrity Precision Products
    * In this metal fastener manufacturing company, Chanwoo has worked as a part-time student assistant to learn how to operate various measuring tools like a shadowgram and, mainly, the CNC steel milling machine.
 * iPhone Repair Cafe
-   * At his father's company that focuses on repairing broken iPhones, Chanwoo worked as a part-time student assistant to examine issues with phones and explaining the problem and repair process. 
+   * In this company that focuses on repairing broken electronics, primarily iPhones, Chanwoo worked as a part-time student assistant to examine issues with customer-brought phones and to explain the problem and repair process. 
 * Dong Research Lab
    * At Vanderbilt University, Chanwoo delves deeper into his interest in robotics to conduct research on microrobotics and, specifically, a dual locomotive swimming robot that can be used for underwater exploration.
