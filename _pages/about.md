@@ -17,7 +17,14 @@ Though still an undergraduate first year student, Chanwoo loves mechanical desig
 
 Chanwoo has several years of experience in the field in 3D printing and continuously seeks to expand the number of machines he can operate.
 
-* Fused Filament Fabrication (FFF)
+* CNC Machines (Can operate)
+  * Fused Filament Fabrication (FFF)
+  * Laser Cutter
+  * Resin Printing (SLS)
+* CNC Machines (Educated on)
+  * Powder-based selective laser sintering (SLS)
+  * 3D inkjet-printing
+  * Bioprinting 
 * Fusion 360
 * SOLIDWORKS
 
