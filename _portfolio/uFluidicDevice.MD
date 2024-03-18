@@ -2,8 +2,8 @@
 title: "uFluidic Device"
 excerpt: "Designed through Fusion 360 CAD software, the microfluidic device provies a much more effeicient way to "
 header:
-  image: /assets/img/Rendering-Of-Actuator (1).jpg
-  teaser: /assets/img/Rendering-Of-Actuator (1).jpg
+  image: /assets/img/uFluidicDeviceTitlePicture.jpg
+  teaser: /assets/img/uFluidicDeviceTitlePicture.jpg
    
 ---
 
