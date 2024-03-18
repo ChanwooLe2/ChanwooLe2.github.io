@@ -48,7 +48,7 @@ header:
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4cdffd816f228146?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-* **How to operate the pump**
+* **How to go from 3D Mold to Final Device**
   1. Load the syringe with the necessary liquid into the barrel. Mount the syringe into the pump through the support beams on the carriage and end support.
   2. Press the red button with a metal outline to turn on the pump. A green light indicates that the syringe pump is extruding the given liquid at a steady rate.
   3. The pump will continue to push out liquid from the syringe until empty. When empty, the limit switch will pause the pump and the LED will turn red.
