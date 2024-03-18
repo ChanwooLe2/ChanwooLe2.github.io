@@ -41,7 +41,7 @@ header:
 
    One piece of this primary mixing section utilizes intersecting channels. The intersecting channels geometry splits, rearranges, and recombines component streams. The design has a 1 mm thick rectangular boundary with small 0.25 mm parallel channels orthogonally dissecting it. Most of the fluid traverses the wider rectangular border path; however, small portions of it travel through the orthogonal channels, thereby enhancing chaotic advection. On the other side of this primary mixing section, the device uses an obstacle-based geometry. Specifically, wide extrusions that disrupt smooth forward flow greatly slow the mixing process and force the fluid to move through channels of varying widths.
 
-![alt text](https://ChanwooLe2.github.io/assets/img/uFluid5.jpg "ZigZag")
+![alt text](https://ChanwooLe2.github.io/assets/img/uFluid5.png "ZigZag")
 
    Finally, the ultimate mixing geometry of this side of the device is a simple zig-zag pattern, which is a common passive geometry in microfluidic devices due to its efficiency and simplicity. For this geometry the ratio between the width and step size of the pattern determines the mixing efficiency. An optimal ratio of 4:1 between these parameters maximizes mixing efficiency.
 
