@@ -15,6 +15,8 @@ header:
 
 * **Device Overview**
 
+/assets/img/uFluidicDeviceDesignOverlook.jpg
+
 | Part name | Quantity |
 | --- | --- |
 | 2040 aluminum extruson | 1 |
