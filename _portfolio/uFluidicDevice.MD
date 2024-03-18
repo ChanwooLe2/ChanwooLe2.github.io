@@ -15,7 +15,7 @@ header:
 
 * **Device Overview**
 
-/assets/img/uFluidicDeviceDesignOverlook.jpg
+![alt text](https://github.io/assets/img/uFluidicDeviceDesignOverlook.jpg)
 
 | Part name | Quantity |
 | --- | --- |
