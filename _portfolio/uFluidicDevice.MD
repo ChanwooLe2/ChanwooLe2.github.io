@@ -33,11 +33,8 @@ header:
 
    Moving onto the branched structure, apart from the amount of paths the structure provides, the key attribute is its obstacles. With around 20 obstacles in each of the 8 paths, our microfluidic device makes sure to induce chaotic flow to ensure mixing. The only drawback to having multiple paths or ineffective fluid dividing features is that not all of the paths were utilized for mixing, nevertheless, for the fluid that did travel down the obstacle path, mixing was induced effectively.
 
-
-* **[Syringe pump code](https://github.com/ChanwooLeee/SyringePumpCode)**
-
 # CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ea01e91e10068fdc5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4cdffd816f228146?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 * **How to operate the pump**
   1. Load the syringe with the necessary liquid into the barrel. Mount the syringe into the pump through the support beams on the carriage and end support.
