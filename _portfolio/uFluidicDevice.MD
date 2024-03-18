@@ -17,7 +17,21 @@ header:
 
 ![alt text](https://ChanwooLe2.github.io/assets/img/uFluidicDeviceDesignOverlook.jpg "Overview")
 
-Some of the decisions regarding the dimensions of the geometries we used to create chaotic advection relied on the size constraints of the device. Specifically, the resolution of the printer was limited to 25 micrometers, there had to be two primary mixing sections in the device (by each team member), the aspect ratio had to be less than 4:1, and all geometries had to be at least 4 mm from the edge of the device. Nevertheless, our device utilizes multiple unique geometries to maximize surface area and chaotic advection of the fluid. 
+   Some of the decisions regarding the dimensions of the geometries we used to create chaotic advection relied on the size constraints of the device. Specifically, the resolution of the printer was limited to 25 micrometers, there had to be two primary mixing sections in the device (by each team member), the aspect ratio had to be less than 4:1, and all geometries had to be at least 4 mm from the edge of the device. Nevertheless, our device utilizes multiple unique geometries to maximize surface area and chaotic advection of the fluid. 
+
+* **Section 1 Overview**
+
+![alt text](https://ChanwooLe2.github.io/assets/img/uFluidicDeviceDesignOverlook.jpg "Overview")
+
+   Section 1 of our microfluidic device utilizes 4 primary design choices: branched paths, obstacles, paths with ridges, and sharp corners. Given the two major mixing techniques, diffusion and chaotic advection, the four provided design attributes are all effective ways to induce mixing. At first glimpse (starting from left to right), section 1 includes a serpentine path followed by a branched structure that splits into 8 paths at most. The extent to which section 1 provides paths of various widths collectively contribute to increasing the cross-sectional area which then allows for a greater rate of diffusion.
+
+![alt text](https://ChanwooLe2.github.io/assets/img/uFluidicDeviceDesignOverlook.jpg "Overview")
+
+   The serpentine path, although the fluid wasn’t able to travel through the upper section, had a width of 800 micrometers, second to largest in our device, and it also included ridged channels with a height of 250 micrometers to induce chaotic flow. The large width in itself heightens the rate of diffusion, but more importantly, the ridged channels allow for the fluid to split up, mix through both diffusion and chaotic advection, and join back for the next section in the device. One design flaw within our device was that the intersecting channels were too wide, preventing the fluid to travel parallel to the main path, creating a deadzone.
+
+![alt text](https://ChanwooLe2.github.io/assets/img/uFluidicDeviceDesignOverlook.jpg "Overview")
+
+   Moving onto the branched structure, apart from the amount of paths the structure provides, the key attribute is its obstacles. With around 20 obstacles in each of the 8 paths, our microfluidic device makes sure to induce chaotic flow to ensure mixing. The only drawback to having multiple paths or ineffective fluid dividing features is that not all of the paths were utilized for mixing, nevertheless, for the fluid that did travel down the obstacle path, mixing was induced effectively.
 
 
 * **[Syringe pump code](https://github.com/ChanwooLeee/SyringePumpCode)**
