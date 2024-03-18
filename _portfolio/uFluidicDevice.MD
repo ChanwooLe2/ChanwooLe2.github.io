@@ -17,7 +17,7 @@ header:
 
 ![alt text](https://ChanwooLe2.github.io/assets/img/uFluidicDeviceDesignOverlook.jpg "Overview")
 
-
+Some of the decisions regarding the dimensions of the geometries we used to create chaotic advection relied on the size constraints of the device. Specifically, the resolution of the printer was limited to 25 micrometers, there had to be two primary mixing sections in the device (by each team member), the aspect ratio had to be less than 4:1, and all geometries had to be at least 4 mm from the edge of the device. Nevertheless, our device utilizes multiple unique geometries to maximize surface area and chaotic advection of the fluid. 
 
 
 * **[Syringe pump code](https://github.com/ChanwooLeee/SyringePumpCode)**
