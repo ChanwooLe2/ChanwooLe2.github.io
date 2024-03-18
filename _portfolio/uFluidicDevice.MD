@@ -51,5 +51,9 @@ header:
 ## How to go from 3D Mold to Final Device
 
 * **Print and Cure Mold**
-  1. Create a mold on a CAD software and print via Resin Printer.
-  2. 
+  1. Create a mold on a CAD software and print via Form 3 SLA resin printer (for its precision)
+  2. Wash the mold for 5 minutes on the print bed and 5 minutes again off the print bed, facing down.
+    * Make sure to NOT touch inside of the mold.
+  3. Let the device dry for 30 minutes away from sunlight, and confirm that there are no shiny sections or debris.
+  4. Cure the device for 5 seconds withot heat.
+* **
