@@ -7,11 +7,9 @@ header:
    
 ---
 
-## Features
+## Introduction to microfluidic devices?
 
-* **Various extrusion rates.** As far as the code goes, any operator may change the rate at which the liquid exits the syringe.
-* **Exchangeable syringe sizes.** This pump has two components that can hold a 10 mL syringe and a 20 mL syringe. The ability to change syringe sizes has critical implications for different purposes: for example, if more liquid is needed, the operator may utilize a 20 mL syringe to better suit their needs.
-* **Clear pump status.** Mounted on the syringe base is an LED that changes color depending on the pump status. While running, the LED will give out a green light. When paused, the LED will turn yellow until the button is pressed again. Lastly, when the syringe runs out of liquid, the pump will pause upon activation of the limit switch, and the LED will turn red.
+* Of the current methods that allow for people to analyze various properties of fluids, microfluidic devices provide one of the most effective ways to gather information about a given fluid in small volumes at a time. Fluids in a micro-scale behave differently than they do at a macro-scale where surface tension becomes a dominant force and, more importantly, turbulent flow does not occur naturally making mixing more difficult. Due to such difficulty in homogeneous mixing, processes like a normal blood test may require specially designed microfluidic devices to facilitate the testing process so that the patient’s health may be more easily determined.
 
 ## Parts required
 
