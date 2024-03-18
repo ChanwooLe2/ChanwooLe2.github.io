@@ -15,7 +15,7 @@ header:
 
 * **Device Overview**
 
-![alt text](https://github.io/assets/img/uFluidicDeviceDesignOverlook.jpg)
+![alt text](https://ChanwooLe2.github.io/assets/img/uFluidicDeviceDesignOverlook.jpg "Overview")
 
 | Part name | Quantity |
 | --- | --- |
