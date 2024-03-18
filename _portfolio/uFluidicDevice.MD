@@ -21,7 +21,7 @@ header:
 
 * **Section 1 Overview**
 
-![alt text](https://ChanwooLe2.github.io/assets/img/uFluid7.png "Sect1Overview")
+![alt text](https://ChanwooLe2.github.io/assets/img/uFLuid7.png "Sect1Overview")
 
    Section 1 of our microfluidic device utilizes 4 primary design choices: branched paths, obstacles, paths with ridges, and sharp corners. Given the two major mixing techniques, diffusion and chaotic advection, the four provided design attributes are all effective ways to induce mixing. At first glimpse (starting from left to right), section 1 includes a serpentine path followed by a branched structure that splits into 8 paths at most. The extent to which section 1 provides paths of various widths collectively contribute to increasing the cross-sectional area which then allows for a greater rate of diffusion.
 
