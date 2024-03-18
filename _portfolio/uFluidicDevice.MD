@@ -9,7 +9,7 @@ header:
 
 ## Introduction to microfluidic devices?
 
-Of the current methods that allow for people to analyze various properties of fluids, microfluidic devices provide one of the most effective ways to gather information about a given fluid in small volumes at a time. Fluids in a micro-scale behave differently than they do at a macro-scale where surface tension becomes a dominant force and, more importantly, turbulent flow does not occur naturally making mixing more difficult. Due to such difficulty in homogeneous mixing, processes like a normal blood test may require specially designed microfluidic devices to facilitate the testing process so that the patient’s health may be more easily determined.
+...Of the current methods that allow for people to analyze various properties of fluids, microfluidic devices provide one of the most effective ways to ...gather information about a given fluid in small volumes at a time. Fluids in a micro-scale behave differently than they do at a macro-scale where ...surface tension becomes a dominant force and, more importantly, turbulent flow does not occur naturally making mixing more difficult. Due to such ...difficulty in homogeneous mixing, processes like a normal blood test may require specially designed microfluidic devices to facilitate the testing ...process so that the patient’s health may be more easily determined.
 
 ## Design Specifications
 
