@@ -1,6 +1,6 @@
 ---
-title: "Syringe Pump Project"
-excerpt: "Created almost all by hand, the syringe pump exerts stored liquid from 1 uL/min to 10 mL/min."
+title: "uFluidic Device"
+excerpt: "Designed through Fusion 360 CAD software, the microfluidic device provies a much more effeicient way to "
 header:
   image: /assets/img/Rendering-Of-Actuator (1).jpg
   teaser: /assets/img/Rendering-Of-Actuator (1).jpg
