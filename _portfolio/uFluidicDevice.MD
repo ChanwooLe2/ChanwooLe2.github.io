@@ -62,6 +62,9 @@ header:
   3. Place the mixture in a vacuum chamber to remove any air bubbles then cure in an oven at 80 ^o^C for 3 hours.
   4. Using PlasmaFloo PDC-FMG plasma cleaner, bond the PDMS devices and glass coverslips together then sterilize before use.
 
+## Videos of uFluidic Device Testing
+
+
 References: 
 https://pubs.rsc.org/en/content/articlelanding/2021/lc/d1lc00744k
 
