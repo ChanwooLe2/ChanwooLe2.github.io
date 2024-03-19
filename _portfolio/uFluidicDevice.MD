@@ -60,5 +60,5 @@ header:
   1. Place the cured prints into a Labcoter PDS 2010 machine to coat the molds with 2 grams of parylene-C. This protects the inner molds from outside contaminants that may corrode parts.
   2. Place the prints in a plastic petri dish. Mix PDMS (polydimethyl siloxane) elastomer and curing agent in a 10:1 weight ratio and pour onto the print.
   3. Place the mixture in a vacuum chamber to remove any air bubbles then cure in an oven at 80 ^o^C for 3 hours.
-  4. Bond the PDMS devices to 
+  4. Using PlasmaFloo PDC-FMG plasma cleaner, bond the PDMS devices and glass coverslips together then sterilize before use.
 
