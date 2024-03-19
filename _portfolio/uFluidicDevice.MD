@@ -64,6 +64,10 @@ header:
 
 ###### [Reference][1]
 
+* Image of uFluidic Device Mold and Cast
+
+![alt text](https://ChanwooLe2.github.io/assets/img/20240307_082429.jpg "Mold and Cast")
+
 ## Videos of uFluidic Device Testing
 
 * Perspective 1
