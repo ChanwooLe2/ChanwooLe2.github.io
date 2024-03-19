@@ -48,7 +48,8 @@ header:
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4cdffd816f228146?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-## How to go from 3D Mold to Final Device (Reference[1^])
+## How to go from 3D Mold to Final Device 
+##### Reference[1^]
 
 * **Print and Cure Mold**
   1. Create a mold on a CAD software and print via Form 3 SLA resin printer (for its precision)
@@ -66,5 +67,5 @@ header:
 
 
 References: 
-https://pubs.rsc.org/en/content/articlelanding/2021/lc/d1lc00744k
+[1^]https://pubs.rsc.org/en/content/articlelanding/2021/lc/d1lc00744k
 
