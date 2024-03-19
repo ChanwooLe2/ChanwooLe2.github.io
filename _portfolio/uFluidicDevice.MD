@@ -64,8 +64,6 @@ header:
   4. Using PlasmaFloo PDC-FMG plasma cleaner, bond the PDMS devices and glass coverslips together then sterilize before use.
 
 ## Videos of uFluidic Device Testing
-
-
-References: 
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA) 
 [1^]https://pubs.rsc.org/en/content/articlelanding/2021/lc/d1lc00744k
 
