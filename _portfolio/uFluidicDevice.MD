@@ -49,7 +49,6 @@ header:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e4cdffd816f228146?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## How to go from 3D Mold to Final Device 
-##### [Reference][1]
 
 * **Print and Cure Mold**
   1. Create a mold on a CAD software and print via Form 3 SLA resin printer (for its precision)
@@ -62,6 +61,7 @@ header:
   2. Place the prints in a plastic petri dish. Mix PDMS (polydimethyl siloxane) elastomer and curing agent in a 10:1 weight ratio and pour onto the print.
   3. Place the mixture in a vacuum chamber to remove any air bubbles then cure in an oven at 80 ^o^C for 3 hours.
   4. Using PlasmaFloo PDC-FMG plasma cleaner, bond the PDMS devices and glass coverslips together then sterilize before use.
+##### [Reference][1]
 
 ## Videos of uFluidic Device Testing
 
