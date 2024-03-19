@@ -65,5 +65,8 @@ header:
 
 ## Videos of uFluidic Device Testing
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA) 
-[1^]https://pubs.rsc.org/en/content/articlelanding/2021/lc/d1lc00744k
+
+
+
+[1^]: https://pubs.rsc.org/en/content/articlelanding/2021/lc/d1lc00744k
 
