@@ -1,6 +1,6 @@
 ---
 title: "Multimaterial Pliers"
-excerpt: "Created almost all by hand, the syringe pump exerts stored liquid from 1 uL/min to 10 mL/min."
+excerpt: "Multimaterial pliers, the perfect cooperation between rigid PLA and elastic TPU, is able to pick up things as small as a resistor."
 header:
   image: /assets/img/Rendering-Of-Actuator (1).jpg
   teaser: /assets/img/Rendering-Of-Actuator (1).jpg
