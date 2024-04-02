@@ -8,13 +8,13 @@ header:
 ---
 ## Printing with multiple materials?
 
-   Of the several techniques involving multimaterial FFF, the print-in-place is a technique in which within one print, multiple materials may cooperate to achieve a desired feature. This way of printing multiple materials allows for the user to utilize this desired feature right after printing without an assembly since all parts are printed within one print session (note that materials are assigend accordingly). 
+&nbsp;&nbsp;&nbsp;&nbsp;Of the several techniques involving multimaterial FFF, the print-in-place is a technique in which within one print, multiple materials may cooperate to achieve a desired feature. This way of printing multiple materials allows for the user to utilize this desired feature right after printing without an assembly since all parts are printed within one print session (note that materials are assigend accordingly). 
 
 ## Material selection with multimaterials
 
 #### TPU and PLA
 
-  Given that a printer is able to print multiple materials, it is also important to know its applications. One of the common ways to utilize this technology is through use of TPU and PLA.
+&nbsp;&nbsp;&nbsp;&nbsp;Given that a printer is able to print multiple materials, it is also important to know its applications. One of the common ways to utilize this technology is through use of TPU and PLA.
 
 ![alt text](https://ChanwooLe2.github.io/assets/img/MultiMaterialEx.png "MultiMaterial Example1")
 ![alt text](https://ChanwooLe2.github.io/assets/img/MultiMaterialEx2.png "MultiMaterial Example2")
@@ -24,12 +24,12 @@ header:
 
 #### Soluble/Dissolvable Supports
 
-  When there is an overhang is greater than 45°, breakaway supports are usually used to prevent prints from failing, and these breakaway supports tend to get annoying in situations where it may be physically difficult to remove them. Printing multimaterial, however, enables users to print soluble/dissolvable supports. A common combination of material is PLA and PVA or ABS and HIPs.
+&nbsp;&nbsp;&nbsp;&nbsp;When there is an overhang is greater than 45°, breakaway supports are usually used to prevent prints from failing, and these breakaway supports tend to get annoying in situations where it may be physically difficult to remove them. Printing multimaterial, however, enables users to print soluble/dissolvable supports. A common combination of material is PLA and PVA or ABS and HIPs.
 
 [![Watch the video](https://img.youtube.com/vi/_PhN_3ijv8I/maxresdefault.jpg)](https://youtu.be/_PhN_3ijv8I)
 <small> [**Video Reference**](https://www.youtube.com/@3dprintlife253) </small>
 
-  The video showcases PVA soluble supports in action, and as can be seen, complex geometries that inhibit the removal of supports may benefit greatly from use of water soluble or dissolvable supports.
+&nbsp;&nbsp;&nbsp;&nbsp;The video showcases PVA soluble supports in action, and as can be seen, complex geometries that inhibit the removal of supports may benefit greatly from use of water soluble or dissolvable supports.
 
 ## Multimaterial Pliers
 
@@ -40,14 +40,14 @@ header:
 ###### CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e52489135c91e2e3a?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-   My pliers minimize number of necessary printed parts with a pair of male and female components each attached with a compartment on the inner sides to hold the spring component. 
+&nbsp;&nbsp;&nbsp;&nbsp;My pliers minimize number of necessary printed parts with a pair of male and female components each attached with a compartment on the inner sides to hold the spring component. 
 
 //IMAGE OF MALE AND FEMALE
 ![alt text](https://ChanwooLe2.github.io/assets/img/MultiMaterialTwistLock.png "Lock Mechanism")
 
-   The pliers utilize an internal twist-lock joint that holds the female and male components together, and through section analysis and topdown modeling on Fusion 360, the spring component was created. Overall, the pliers were modeled parametrically, and different variables, such as the joint radius, angle between radius to handle or jaw, etc., were experimentally changed to maximize gripping capabilities.
+&nbsp;&nbsp;&nbsp;&nbsp;The pliers utilize an internal twist-lock joint that holds the female and male components together, and through section analysis and topdown modeling on Fusion 360, the spring component was created. Overall, the pliers were modeled parametrically, and different variables, such as the joint radius, angle between radius to handle or jaw, etc., were experimentally changed to maximize gripping capabilities.
 
-   * Note that the spring component was modeled at the plier's maximum extension (keeping in mind that the twist-lock joint does not detatch at that point). Squishing the pliers to grab a material would force the spring to exert forces into the pliers, meaning that when not applying force, the pliers revert back to their position of maximum extension.
+       * Note that the spring component was modeled at the plier's maximum extension (keeping in mind that the twist-lock joint does not detatch at that point). Squishing the pliers to grab a material would force the spring to exert forces into the pliers, meaning that when not applying force, the pliers revert back to their position of maximum extension.
 
 #### Plier Capability
 | Feature | Dimension |
