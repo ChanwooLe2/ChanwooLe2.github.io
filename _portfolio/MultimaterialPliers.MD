@@ -14,3 +14,7 @@ header:
 
   Given that a printer is able to print multiple materials, it is also important to know its applications. One of the common ways to utilize this technology is through use of TPU and PLA.
 
+
+[Image Reference][1]
+
+[1]: https://community.ultimaker.com/topic/42890-ultimaker-cura-53-beta-released/
