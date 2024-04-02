@@ -61,7 +61,12 @@ header:
 #### Print Settings
  * Female part infill: 20
  * Male part infill: 50
-   * The male component has a higher infill to increase the strength of the joint head.
+   * The male component has a higher infill to increase the strength of the joint insert
+
+#### Gallery
+
+//IMAGES
+//GIF OF WORKING
 
 [1]: https://community.ultimaker.com/topic/42890-ultimaker-cura-53-beta-released/
 [2]: https://www.youtube.com/@3dprintlife253
