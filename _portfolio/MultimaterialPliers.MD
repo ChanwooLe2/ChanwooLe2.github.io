@@ -42,8 +42,7 @@ header:
 
 &nbsp;&nbsp;&nbsp;&nbsp;My pliers minimize number of necessary printed parts with a pair of male and female components each attached with a compartment on the inner sides to hold the spring component. 
 
-//IMAGE OF MALE AND FEMALE
-![alt text](https://ChanwooLe2.github.io/assets/img/MultiMaterialTwistLock.png "Lock Mechanism")
+![alt text](https://ChanwooLe2.github.io/assets/img/20240402_163049.jpg "Male and female") ![alt text](https://ChanwooLe2.github.io/assets/img/MultiMaterialTwistLock.png "Lock Mechanism")
 
 &nbsp;&nbsp;&nbsp;&nbsp;The pliers utilize an internal twist-lock joint that holds the female and male components together, and through section analysis and topdown modeling on Fusion 360, the spring component was created. Overall, the pliers were modeled parametrically, and different variables, such as the joint radius, angle between radius to handle or jaw, etc., were experimentally changed to maximize gripping capabilities.
 
