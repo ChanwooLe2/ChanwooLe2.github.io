@@ -18,7 +18,7 @@ header:
 
 ![alt text](https://ChanwooLe2.github.io/assets/img/MultiMaterialEx.png "MultiMaterial Example1")
 ![alt text](https://ChanwooLe2.github.io/assets/img/MultiMaterialEx2.png "MultiMaterial Example2")
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small> [**Image Reference**](https://community.ultimaker.com/topic/42890-ultimaker-cura-53-beta-released/) </small>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small> [**Image Reference**](https://community.ultimaker.com/topic/42890-ultimaker-cura-53-beta-released/) </small>
 
 &nbsp;&nbsp;&nbsp;&nbsp;As displayed in the image, TPU, with its elastic property, acts as a spring component in the aligator clip, and the rigid PLA structure is able to clip certain objects.
 
@@ -27,7 +27,7 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;When there is an overhang is greater than 45°, breakaway supports are usually used to prevent prints from failing, and these breakaway supports tend to get annoying in situations where it may be physically difficult to remove them. Printing multimaterial, however, enables users to print soluble/dissolvable supports. A common combination of material is PLA and PVA or ABS and HIPs.
 
 [![Watch the video](https://img.youtube.com/vi/_PhN_3ijv8I/maxresdefault.jpg)](https://youtu.be/_PhN_3ijv8I)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small> [**Video Reference**](https://www.youtube.com/@3dprintlife253) </small>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small> [**Video Reference**](https://www.youtube.com/@3dprintlife253) </small>
 
 &nbsp;&nbsp;&nbsp;&nbsp;The video showcases PVA soluble supports in action, and as can be seen, complex geometries that inhibit the removal of supports may benefit greatly from use of water soluble or dissolvable supports.
 
