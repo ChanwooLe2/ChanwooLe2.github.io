@@ -33,7 +33,7 @@ header:
 
 ## Multimaterial Pliers
 
-<iframe src="https://giphy.com/embed/7tUbr1NVhyq3XBHtzr" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
+<iframe src="https://giphy.com/embed/7tUbr1NVhyq3XBHtzr" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/7tUbr1NVhyq3XBHtzr"></a></p>
 
 #### Design Features
 
