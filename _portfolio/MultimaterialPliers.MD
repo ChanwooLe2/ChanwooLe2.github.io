@@ -50,7 +50,13 @@ header:
    * Note that the spring component was modeled at the plier's maximum extension (keeping in mind that the twist-lock joint does not detatch at that point). Squishing the pliers to grab a material would force the spring to exert forces into the pliers, meaning that when not applying force, the pliers revert back to their position of maximum extension.
 
 #### Plier Capability
-
+| Feature | Dimension |
+| --- | --- |
+| Jaw Length | ~48 mm |
+| Handle Length | ~107 mm |
+| Joint diameter | 30 mm |
+| Plier Thickness | 12.5 mm |
+| Spring Thickness | Max: ~6.5 mm, Min: 4.2 mm |
 
 [1]: https://community.ultimaker.com/topic/42890-ultimaker-cura-53-beta-released/
 [2]: https://www.youtube.com/@3dprintlife253
