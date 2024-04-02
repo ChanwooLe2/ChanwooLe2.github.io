@@ -12,12 +12,21 @@ header:
 
 ## Material selection with multimaterials
 
+#### TPU and PLA
+
   Given that a printer is able to print multiple materials, it is also important to know its applications. One of the common ways to utilize this technology is through use of TPU and PLA.
 
 ![alt text](https://ChanwooLe2.github.io/assets/img/MultiMaterialEx.png "MultiMaterial Example1")
 ![alt text](https://ChanwooLe2.github.io/assets/img/MultiMaterialEx2.png "MultiMaterial Example2")
 [Image Reference][1]
 
-   As displayed in the image, TPU, with its elastic property, acts as a spring component in the aligator clip, and the rigid PLA structure is able to clip certain objects. 
+   As displayed in the image, TPU, with its elastic property, acts as a spring component in the aligator clip, and the rigid PLA structure is able to clip certain objects.
+
+#### Soluable/Dissolvable Supports
+
+  When there is an overhang is greater than 45°, breakaway supports are usually used to prevent prints from failing, and these breakaway supports tend to get annoying in situations where it may be physically difficult to remove them. Printing multimaterial, however, enables users to print soluable/dissolvable supports. A common combination of material is PLA and PVA or ABS and HIPs.
+
+
+   
 
 [1]: https://community.ultimaker.com/topic/42890-ultimaker-cura-53-beta-released/
