@@ -2,8 +2,8 @@
 title: "Multimaterial Pliers"
 excerpt: "Multimaterial pliers, the perfect cooperation between rigid PLA and elastic TPU, is able to pick up things as small as a resistor."
 header:
-  image: /assets/img/Rendering-Of-Actuator (1).jpg
-  teaser: /assets/img/Rendering-Of-Actuator (1).jpg
+  image: /assets/img/MultiMaterialPliersRendering.jpg
+  teaser: /assets/img/MultiMaterialPliersRendering.jpg
    
 ---
 ## Printing with multiple materials?
