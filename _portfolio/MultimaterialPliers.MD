@@ -33,7 +33,7 @@ header:
 
 ## Multimaterial Pliers
 
-//IMAGE
+//IMAGE OF PLIERS IRL
 
 #### Design Features
 
@@ -42,9 +42,10 @@ header:
 
    My pliers minimize number of necessary printed parts with a pair of male and female components each attached with a compartment on the inner sides to hold the spring component. 
 
+//IMAGE OF MALE AND FEMALE
 ![alt text](https://ChanwooLe2.github.io/assets/img/MultiMaterialTwistLock.png "Lock Mechanism")
 
-
+   The pliers utilize an internal twist-lock joint that holds the female and male components together, and through section analysis and topdown modeling on Fusion 360, the spring component was created. Note that the spring component was modeled at the plier's maximum extension (keeping in mind that the twist-lock joint does not detatch at that point). Squishing the pliers to grab a material would force the spring to exert forces into the pliers, meaning that when not applying force, the pliers revert back to their position of maximum extension.
 
 [1]: https://community.ultimaker.com/topic/42890-ultimaker-cura-53-beta-released/
 [2]: https://www.youtube.com/@3dprintlife253
