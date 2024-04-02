@@ -1,6 +1,6 @@
 ---
 title: "Multimaterial Pliers"
-excerpt: "Multimaterial pliers, the perfect cooperation between rigid PLA and elastic TPU, is able to pick up things as small as a resistor."
+excerpt: "Multimaterial pliers, showcasing the perfect cooperation between rigid PLA and elastic TPU, is able to pick up things as small as a resistor."
 header:
   image: /assets/img/MultiMaterialPliersRendering.jpg
   teaser: /assets/img/MultiMaterialPliersRendering.jpg
