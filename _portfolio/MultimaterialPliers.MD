@@ -63,7 +63,5 @@ header:
 #### Gallery
 
 <iframe src="https://giphy.com/embed/tB21vDEj1QC6LjuEWU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tB21vDEj1QC6LjuEWU"></a></p>
-
-//IMAGES
-//GIF OF WORKING
+***<p style="text-align: center;">Pliers picking up pencil case</p>***
 
