@@ -20,7 +20,9 @@ header:
 <img style="float: right;" src="https://ChanwooLe2.github.io/assets/img/MultiMaterialEx2.png" alt="MultiMaterial Example2" width="458"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small> [**Image Reference**](https://community.ultimaker.com/topic/42890-ultimaker-cura-53-beta-released/) </small>
 
-&nbsp;&nbsp;&nbsp;&nbsp;As displayed in the image, TPU, with its elastic property, acts as a spring component in the aligator clip, and the rigid PLA structure is able to clip certain objects. As could be imagined, the possibility of printing both elastic and rigid components all within one print opens the door for all sorts of mechanical systems where an assembly to reach the same system may seem like an impossible task. Skipping ahead, my pliers were made with two parts PLA and one part TPU, but 
+&nbsp;&nbsp;&nbsp;&nbsp;As displayed in the image, TPU, with its elastic property, acts as a spring component in the aligator clip, and the rigid PLA structure is able to clip certain objects. As could be imagined, the possibility of printing both elastic and rigid components all within one print opens the door for all sorts of mechanical systems where an assembly to reach the same system may seem like an impossible task. Skipping ahead, my pliers were made with two parts PLA and one part TPU all printed separately, but it should be noted that this approach was an easier, or "cheat", way of going about making a set of multimaterial pliers. To truely exercise the ability of multimaterial printing, a design similar to that shown below is common.
+
+
 
 #### Soluble/Dissolvable Supports
 
