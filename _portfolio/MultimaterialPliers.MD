@@ -47,7 +47,7 @@ header:
 ![alt text](https://ChanwooLe2.github.io/assets/img/20240402_202115.jpg "Lock Mechanism2")
 
 &nbsp;&nbsp;&nbsp;&nbsp;The pliers utilize an internal twist-lock joint that holds the female and male components together, and through section analysis and topdown modeling on Fusion 360, the spring component was created. Overall, the pliers were modeled parametrically, and different variables, such as the joint radius, angle between radius to handle or jaw, etc., were experimentally determined to maximize gripping capabilities. 
-<img style="float: right;" src="https://ChanwooLe2.github.io/assets/img/20240402_210026.jpg" alt="Jaw" width="458"/>
+<img style="float: right;" src="https://ChanwooLe2.github.io/assets/img/20240402_210026.jpg" alt="Jaw" width="300"/>
 A critical flaw within my model may be the gripping method. Albeit my plier was able to grip resistors without much struggle, the gripping round gripping end with a noticeable difference in gripper height contributed to the struggle in gripping small round surfaces and/or thin materials on a flat surface.
 
 ![alt text](https://ChanwooLe2.github.io/assets/img/20240402_210156.jpg "Jaw2")
