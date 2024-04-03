@@ -43,8 +43,6 @@ header:
 
 <img style="float: left;" src="https://ChanwooLe2.github.io/assets/img/20240402_163049.jpg" alt="Male and female" width="300"/> <img style="float: right;" src="https://ChanwooLe2.github.io/assets/img/MultiMaterialTwistLock.png" alt="Lock Mechanism" width="300"/>
 
-![alt text](https://ChanwooLe2.github.io/assets/img/20240402_163049.jpg "Male and female") ![alt text](https://ChanwooLe2.github.io/assets/img/MultiMaterialTwistLock.png "Lock Mechanism")
-
 &nbsp;&nbsp;&nbsp;&nbsp;The pliers utilize an internal twist-lock joint that holds the female and male components together, and through section analysis and topdown modeling on Fusion 360, the spring component was created. Overall, the pliers were modeled parametrically, and different variables, such as the joint radius, angle between radius to handle or jaw, etc., were experimentally changed to maximize gripping capabilities.
 &nbsp;&nbsp;&nbsp;&nbsp;######(Note that the spring component was modeled at the plier's maximum extension (keeping in mind that the twist-lock joint does not detatch at that point). Squishing the pliers to grab a material would force the spring to exert forces into the pliers, meaning that when not applying force, the pliers revert back to their position of maximum extension.)
 
