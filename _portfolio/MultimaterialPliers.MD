@@ -63,7 +63,7 @@ header:
  * Male part infill: 50
    * The male component has a higher infill to increase the strength of the joint insert
 
-#### Gallery
+#### More Media
 
 ![alt text](https://ChanwooLe2.github.io/assets/img/20240402_163049.jpg "Male and female")
 <p style="text-align: center;">Failed male plier components due to lack of strength and tolerance</p>
