@@ -52,7 +52,7 @@ A critical flaw within my model may be the gripping method. Albeit my plier was 
 
 ![alt text](https://ChanwooLe2.github.io/assets/img/20240402_210156.jpg "Jaw2")
 
-&nbsp;&nbsp;&nbsp;&nbsp;Note that the spring component was modeled at the plier's maximum extension (keeping in mind that the twist-lock joint does not detatch at that point). Squishing the pliers to grab a material would force the spring to exert forces into the pliers, meaning that when not applying force, the pliers revert back to their position of maximum extension.
+&nbsp;&nbsp;&nbsp;&nbsp;Lastly, the spring component was modeled at the plier's maximum extension, keeping in mind that the twist-lock joint was not susceptible to falling off at that point. Squishing the pliers to grab a material would cause the spring to exert forces into the pliers, meaning that when after releasing the squeezing force, the pliers would revert back to their position of maximum extension.
 
 ###### CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e52489135c91e2e3a?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
