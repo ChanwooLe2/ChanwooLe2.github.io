@@ -42,7 +42,7 @@ header:
 
 &nbsp;&nbsp;&nbsp;&nbsp;My pliers minimize number of necessary printed parts with a pair of male and female components each attached with a compartment on the inner sides to hold the spring component. 
 
-<img style="float: left;" src="https://ChanwooLe2.github.io/assets/img/20240402_163049.jpg" alt="Male and female" width="275"/> 
+<img style="float: left;" src="https://ChanwooLe2.github.io/assets/img/20240402_163049.jpg" alt="Male and female" width="275" height="300"/> 
 <img style="float: right;" src="https://ChanwooLe2.github.io/assets/img/MultiMaterialTwistLock.png" alt="Lock Mechanism" width="360"/>
 
 
