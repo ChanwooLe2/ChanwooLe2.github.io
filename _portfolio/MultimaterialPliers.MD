@@ -41,23 +41,21 @@ header:
 
 #### Design Features
 
-###### CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e52489135c91e2e3a?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
 &nbsp;&nbsp;&nbsp;&nbsp;My pliers minimize number of necessary printed parts with a pair of male and female components each attached with a compartment on the inner sides to hold the spring component. 
 
-![alt text](https://ChanwooLe2.github.io/assets/img/20240402_202115.jpg "Lock Mechanism1")
+![alt text](https://ChanwooLe2.github.io/assets/img/MultiMaterialTwistLock.png "Lock Mechanism1")
 ![alt text](https://ChanwooLe2.github.io/assets/img/20240402_202115.jpg "Lock Mechanism2")
 
 &nbsp;&nbsp;&nbsp;&nbsp;The pliers utilize an internal twist-lock joint that holds the female and male components together, and through section analysis and topdown modeling on Fusion 360, the spring component was created. Overall, the pliers were modeled parametrically, and different variables, such as the joint radius, angle between radius to handle or jaw, etc., were experimentally determined to maximize gripping capabilities. 
-
+<img style="float: right;" src="https://ChanwooLe2.github.io/assets/img/20240402_210026.jpg" alt="Jaw" width="458"/>
 A critical flaw within my model may be the gripping method. Albeit my plier was able to grip resistors without much struggle, the gripping round gripping end with a noticeable difference in gripper height contributed to the struggle in gripping small round surfaces and/or thin materials on a flat surface.
 
-//image
-
-
+![alt text](https://ChanwooLe2.github.io/assets/img/20240402_210156.jpg "Jaw2")
 
 &nbsp;&nbsp;&nbsp;&nbsp;Note that the spring component was modeled at the plier's maximum extension (keeping in mind that the twist-lock joint does not detatch at that point). Squishing the pliers to grab a material would force the spring to exert forces into the pliers, meaning that when not applying force, the pliers revert back to their position of maximum extension.
+
+###### CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e52489135c91e2e3a?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 #### Plier Capability
 
