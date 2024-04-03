@@ -41,7 +41,7 @@ header:
 
 &nbsp;&nbsp;&nbsp;&nbsp;My pliers minimize number of necessary printed parts with a pair of male and female components each attached with a compartment on the inner sides to hold the spring component. 
 
-<img style="float: left;" src="https://ChanwooLe2.github.io/assets/img/20240402_163049.jpg" alt="Male and female" width="300"/> <img style="float: right;" src="https://ChanwooLe2.github.io/assets/img/MultiMaterialTwistLock.png" alt="Lock Mechanism" width="350"/>
+<img style="float: left;" src="https://ChanwooLe2.github.io/assets/img/20240402_163049.jpg" alt="Male and female" width="275"/> <img style="float: right;" src="https://ChanwooLe2.github.io/assets/img/MultiMaterialTwistLock.png" alt="Lock Mechanism" width="325"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;The pliers utilize an internal twist-lock joint that holds the female and male components together, and through section analysis and topdown modeling on Fusion 360, the spring component was created. Overall, the pliers were modeled parametrically, and different variables, such as the joint radius, angle between radius to handle or jaw, etc., were experimentally changed to maximize gripping capabilities.
 &nbsp;&nbsp;&nbsp;&nbsp;######(Note that the spring component was modeled at the plier's maximum extension (keeping in mind that the twist-lock joint does not detatch at that point). Squishing the pliers to grab a material would force the spring to exert forces into the pliers, meaning that when not applying force, the pliers revert back to their position of maximum extension.)
@@ -61,6 +61,8 @@ header:
    * The male component has a higher infill to increase the strength of the joint insert
 
 #### Gallery
+
+<iframe src="https://giphy.com/embed/tB21vDEj1QC6LjuEWU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tB21vDEj1QC6LjuEWU"></a></p>
 
 //IMAGES
 //GIF OF WORKING
