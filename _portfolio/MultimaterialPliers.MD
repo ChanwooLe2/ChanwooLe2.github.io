@@ -20,9 +20,11 @@ header:
 <img style="float: right;" src="https://ChanwooLe2.github.io/assets/img/MultiMaterialEx2.png" alt="MultiMaterial Example2" width="458"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small> [**Image Reference**](https://community.ultimaker.com/topic/42890-ultimaker-cura-53-beta-released/) </small>
 
-&nbsp;&nbsp;&nbsp;&nbsp;As displayed in the image, TPU, with its elastic property, acts as a spring component in the aligator clip, and the rigid PLA structure is able to clip certain objects. As could be imagined, the possibility of printing both elastic and rigid components all within one print opens the door for all sorts of mechanical systems where an assembly to reach the same system may seem like an impossible task. Skipping ahead, my pliers were made with two parts PLA and one part TPU all printed separately, but it should be noted that this approach was an easier, or "cheat", way of going about making a set of multimaterial pliers. To truely exercise the ability of multimaterial printing, a design similar to that shown below is common.
+&nbsp;&nbsp;&nbsp;&nbsp;Displayed in the image, TPU, with its elastic property, acts as a spring component in the aligator clip, and the rigid PLA structure is able to clip certain objects. As could be imagined, the possibility of printing both elastic and rigid components all within one print opens the door for all sorts of mechanical systems where an assembly to reach the same system may be an impossible task. 
+&nbsp;&nbsp;&nbsp;&nbsp;Skipping ahead, my pliers were made with two parts PLA and one part TPU all printed separately, but it should be noted that this approach was an easier, or "cheat", way of going about making a set of multimaterial pliers. To truely exercise the ability of multimaterial printing, a design similar to that shown below is common.
 
 ![alt text](https://ChanwooLe2.github.io/assets/img/pliars.jpg "Multimat Pliars")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small> [**Image Reference**](https://all3dp.com/3d-printed-flexible-pliers/) </small>
 
 #### Soluble/Dissolvable Supports
 
@@ -31,7 +33,7 @@ header:
 [![Watch the video](https://img.youtube.com/vi/_PhN_3ijv8I/maxresdefault.jpg)](https://youtu.be/_PhN_3ijv8I)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small> [**Video Reference**](https://www.youtube.com/@3dprintlife253) </small>
 
-&nbsp;&nbsp;&nbsp;&nbsp;The video showcases PVA soluble supports in action, and as can be seen, complex geometries that inhibit the removal of supports may benefit greatly from use of water soluble or dissolvable supports.
+&nbsp;&nbsp;&nbsp;&nbsp;The video showcases PVA soluble supports in action, and as can be seen, complex geometries, especially internal features, that inhibit the removal of supports may benefit greatly from use of water soluble or dissolvable supports. 
 
 ## Multimaterial Pliers
 
@@ -44,9 +46,8 @@ header:
 
 &nbsp;&nbsp;&nbsp;&nbsp;My pliers minimize number of necessary printed parts with a pair of male and female components each attached with a compartment on the inner sides to hold the spring component. 
 
-
-<img style="float: left;" src="https://ChanwooLe2.github.io/assets/img/20240402_202115.jpg" alt="Lock Mechanism1" width="305"/> 
-<img style="float: right;" src="https://ChanwooLe2.github.io/assets/img/MultiMaterialTwistLock.png" alt="Lock Mechanism2" width="320"/>
+![alt text](https://ChanwooLe2.github.io/assets/img/20240402_202115.jpg "Lock Mechanism1")
+![alt text](https://ChanwooLe2.github.io/assets/img/20240402_202115.jpg "Lock Mechanism2")
 
 &nbsp;&nbsp;&nbsp;&nbsp;The pliers utilize an internal twist-lock joint that holds the female and male components together, and through section analysis and topdown modeling on Fusion 360, the spring component was created. Overall, the pliers were modeled parametrically, and different variables, such as the joint radius, angle between radius to handle or jaw, etc., were experimentally changed to maximize gripping capabilities.
 
