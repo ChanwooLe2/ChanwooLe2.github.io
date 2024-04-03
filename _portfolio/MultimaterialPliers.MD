@@ -66,8 +66,8 @@ header:
 #### Gallery
 
 ![alt text](https://ChanwooLe2.github.io/assets/img/20240402_163049.jpg "Male and female")
-***<p style="text-align: center;">Failed male plier components due to lack of strength and tolerance</p>***
+<p style="text-align: center;">Failed male plier components due to lack of strength and tolerance</p>
 
 <iframe src="https://giphy.com/embed/tB21vDEj1QC6LjuEWU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tB21vDEj1QC6LjuEWU">via GIPHY</a></p>
-***<p style="text-align: center;">Pliers picking up pencil case</p>***
+<p style="text-align: center;">Pliers picking up pencil case</p>
 
