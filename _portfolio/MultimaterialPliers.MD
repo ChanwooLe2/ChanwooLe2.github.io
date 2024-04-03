@@ -42,7 +42,6 @@ header:
 
 &nbsp;&nbsp;&nbsp;&nbsp;My pliers minimize number of necessary printed parts with a pair of male and female components each attached with a compartment on the inner sides to hold the spring component. 
 
-<img style="float: left;" src="https://ChanwooLe2.github.io/assets/img/20240402_163049.jpg" alt="Male and female" width="275" /> 
 <img style="float: right;" src="https://ChanwooLe2.github.io/assets/img/MultiMaterialTwistLock.png" alt="Lock Mechanism" width="400"/>
 
 
@@ -64,6 +63,9 @@ header:
    * The male component has a higher infill to increase the strength of the joint insert
 
 #### Gallery
+
+<img style="float: left;" src="https://ChanwooLe2.github.io/assets/img/20240402_163049.jpg" alt="Male and female" width="275" />
+***<p style="text-align: center;">Failed male plier components due to lack of strength and tolerance</p>***
 
 <iframe src="https://giphy.com/embed/tB21vDEj1QC6LjuEWU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tB21vDEj1QC6LjuEWU">via GIPHY</a></p>
 ***<p style="text-align: center;">Pliers picking up pencil case</p>***
