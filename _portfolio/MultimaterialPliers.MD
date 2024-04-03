@@ -49,6 +49,7 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp; ######Note that the spring component was modeled at the plier's maximum extension (keeping in mind that the twist-lock joint does not detatch at that point). Squishing the pliers to grab a material would force the spring to exert forces into the pliers, meaning that when not applying force, the pliers revert back to their position of maximum extension.
 
 #### Plier Capability
+
 | Feature | Dimension |
 | --- | --- |
 | Jaw Length | ~48 mm |
