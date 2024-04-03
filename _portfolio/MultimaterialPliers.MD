@@ -16,7 +16,7 @@ header:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Given that a printer is able to print multiple materials, it is also important to know its applications. One of the common ways to utilize this technology is through use of TPU and PLA.
 
-<img style="float: right;" src="https://ChanwooLe2.github.io/assets/img/MultiMaterialEx.png" alt="MultiMaterial Example1" width="422"/> <img style="float: left;" src="https://ChanwooLe2.github.io/assets/img/MultiMaterialEx2.png" alt="MultiMaterial Example2" width="458"/>
+<img style="float: left;" src="https://ChanwooLe2.github.io/assets/img/MultiMaterialEx.png" alt="MultiMaterial Example1" width="422"/> <img style="float: right;" src="https://ChanwooLe2.github.io/assets/img/MultiMaterialEx2.png" alt="MultiMaterial Example2" width="458"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small> [**Image Reference**](https://community.ultimaker.com/topic/42890-ultimaker-cura-53-beta-released/) </small>
 
 &nbsp;&nbsp;&nbsp;&nbsp;As displayed in the image, TPU, with its elastic property, acts as a spring component in the aligator clip, and the rigid PLA structure is able to clip certain objects.
