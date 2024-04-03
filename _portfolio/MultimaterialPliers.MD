@@ -68,6 +68,6 @@ header:
 ![alt text](https://ChanwooLe2.github.io/assets/img/20240402_163049.jpg "Male and female")
 <p style="text-align: center;">Failed male plier components due to lack of strength and tolerance</p>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/tB21vDEj1QC6LjuEWU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tB21vDEj1QC6LjuEWU">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/tB21vDEj1QC6LjuEWU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tB21vDEj1QC6LjuEWU"></a></p>
 <p style="text-align: center;">Pliers picking up pencil case</p>
 
