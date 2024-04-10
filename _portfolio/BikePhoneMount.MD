@@ -46,4 +46,13 @@ header:
 
 #### Assembly Instructions
 
-1) 
+1) First secure the handle mount onto the handle of diameter 25 mm using a M5 allen wrench.
+2) Attach the handle to phone link using four M3 fasteners onto the phone mount. No allen wrench is necessary for such procedure.
+3) Slide the dovetails into each other in an orientation of choice (vertical or horizontal).
+
+#### Material Selection and Gallery
+
+* TPU was utilized for the phone mount to allow for a flexible, easy and quick way to attach the phone onto the mount.
+* PLA was utilized for the other two components for its structural integrity.
+
+//image of working, gif of mounting and dismounting
