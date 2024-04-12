@@ -62,3 +62,8 @@ header:
 * PLA was utilized for the other two components for its structural integrity.
 
 ![alt text](https://ChanwooLe2.github.io/assets/img/Working.jpg "Working")
+
+![alt text](https://ChanwooLe2.github.io/assets/img/Iteration.jpg "Iteration")
+<p style="text-align: center;">Iterations of Link component due to realization that parts will collide with M3 bolts</p>
+
+
