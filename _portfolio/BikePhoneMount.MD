@@ -22,13 +22,13 @@ header:
 
 ![alt text](https://ChanwooLe2.github.io/assets/img/PhoneMount.jpg "Mount")
 
-&nbsp;&nbsp;&nbsp;&nbsp;To account for potential failures, where the phone fails to fit nicely, the top part of the phone mount was designed to allow for flexibility compared to the bottom, and the reasoning to have a bridging component near the bottom was to prevent the phone from falling off the mount too easily when placed onto the bicycle in a vertical orientation.
+&nbsp;&nbsp;&nbsp;&nbsp;To account for potential failures, where the phone doesn't fit nicely, the top part of the phone mount was designed to allow for flexibility compared to the bottom. The reasoning behind the bridging component near the bottom was to prevent the phone from falling off the mount too easily when placed onto the bicycle in a vertical orientation. As labled, however, the bottom does include a break-off from the bridging structures to allow for a limited flexibility.
 
 ![alt text](https://ChanwooLe2.github.io/assets/img/Bridges.jpg "Bridges")
 
 #### Handle to Phone Link
 
-&nbsp;&nbsp;&nbsp;&nbsp;Starting a model ontop of the phone mount, the handle to phone link was easily created via top-down approach for easy attachment using M3 fasteners and a dovetail joint to easily mount and dismount the phone from the handle mount. Simplicity was the main objective for this component.
+&nbsp;&nbsp;&nbsp;&nbsp;Starting a model ontop of the phone mount, the handle to phone link was easily created via top-down approach for easy attachment using M3 fasteners and a dovetail joint to mount and dismount the phone from the handle mount without difficulty. Simplicity was the main objective for this component.
 
 ![alt text](https://ChanwooLe2.github.io/assets/img/Link.jpg "Link")
 
@@ -39,8 +39,7 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;The last component of the bicycle phone mount is the handle mount. It was designed to allow for a comparatively easy way to secure onto a 25 mm diameter handle using a M5 allen wrench, and in terms of connecting onto the link, a plus sign-shaped extrude removes were utilized to allow for the phone to be in a horizontal and vertical orientation.
 
 ![alt text](https://ChanwooLe2.github.io/assets/img/PlusSign.jpg "Plus")
-
-&nbsp;&nbsp;&nbsp;&nbsp;Note that the bottom was blocked off to prevent the phone from slipping through the handle mount with ease.
+<p style="text-align: center;">Note that the bottom was blocked off to prevent the phone from slipping through the handle mount with ease.</p>
 
 ## Other information
 
