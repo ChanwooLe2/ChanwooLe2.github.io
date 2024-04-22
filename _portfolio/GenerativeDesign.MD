@@ -1,9 +1,9 @@
 ---
-title: "Bike Handle Phone Mount"
-excerpt: "While safely securing your phone onto the bicycle, this phone mount allows cyclists to easily mount and dismount the phone for both vertical and horizontal orientations."
+title: "Electric Longboard Hanger + Motor Mount"
+excerpt: "As a critical component of the DIY electric longboard, the hanger and motor mount was created mostly through use of generative design, and it was created while keeping in mind the various forces that may destroy it. ."
 header:
   image: /assets/img/HolderFrontPic.jpg
   teaser: /assets/img/HolderFrontPic.jpg
    
 ---
-## Introduction and Top-down Modelingp
+## Introduction and Generative Design
