@@ -13,6 +13,8 @@ header:
 
 #### Nylon 12 Component
 
+![alt text](https://ChanwooLe2.github.io//assets/img/Paris1Render.png "Paris 1")
 
 #### AlSi10Mg Component
 
+![alt text](https://ChanwooLe2.github.io//assets/img/Paris2Render.png "Paris 2")
