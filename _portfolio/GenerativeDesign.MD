@@ -41,7 +41,7 @@ header:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Furthermore, the whole generative design process requires much more than you would expect when it comes to providing the AI obstacle geometries. Not only do these geometries have to be in specific locations, the bodies themselves must not be detailed since the AI takes longer to create designs which may lead to failures. Much of our struggles, as a class, came from the AI placing much more material in places we did not want any in, leading to bulky outcomes (see image below).
 
-![alt text](https://ChanwooLe2.github.io/assets/img/Paris3Fail.pngg "Paris 3")
+![alt text](https://ChanwooLe2.github.io/assets/img/Paris3Fail.png "Paris 3")
 
 &nbsp;&nbsp;&nbsp;&nbsp;Even if the preview reveals models that look perfect, the actual outcomes may fall short in detail, and the wait time needed for each generative design iteration is too significant to the point you would expect to start a generative design iteration overnight or early in the day for it to finish hours later. When considering all the drawbacks to generative design, it is likely that one may consider it an inefficient method to go about CAD modeling. Nearly all drawbacks point to the fact that the generative design is not a timely efficient process which is ironic given that the AI is supposed to design the whole model itself rather than humans needing to spend time designing the part by hand.
 
