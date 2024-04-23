@@ -32,3 +32,17 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;Paired with generative design, powder bed fusion will allow for a great way to manufacture and test components in industries like aerospace and automotive where precision, creativity, and complexity is highly required. The ability to place key components (preserve geometries) and plenty of obstacle geometries to then let the AI do all the work is seemingly an efficient way to go about generating components that work in plenty of different ways. Even if they don't work, the generative design processes may provide certain key features that do work and may inspire future designs to include those specific features because of the advantages they provide. 
 
 #### Real Life Image of Component with Respect to Longboard
+
+## Limitations
+
+&nbsp;&nbsp;&nbsp;&nbsp;If paired with highly detailed load cases and a multitude of obstacle geometries that prevents the AI from generating restrictive models (or even incompatible models) generative design has the potential to produce multiple high-quality parts that would take more hours to design by hand. Even if the generated model cannot be used for actual use, some of its favorable attributes may be recycled for the next sets of generative design model or even built upon by hand. Whether or not this technology is an efficient method to design, some degree of success may be achieved, given that it is paired with a spotless load cases and obstacles geometries.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Problem arises when it is difficult to provide the AI with a specific and accurate load case and/or the obstacle geometries leave too much space for the AI to venture into model concepts that are considered incompatible. In the case of our electric longboard, load cases were, for the most part, common sense loads, and the others were mere approximations of loads that the board might face. Without delving deep into force analysis and multiple calculations, it is difficult to provide the AI such loadcases that may be more suited for our needs. The fact that the AI was able to generate working models itself is impressive, but considering the amount of time that was put into generating parts may take away from the usefulness of generative design. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, the whole generative design process requires much more than you would expect when it comes to providing the AI obstacle geometries. Not only do these geometries have to be in specific locations, the bodies themselves must not be detailed since the AI takes longer to create designs which may lead to failures. Much of our struggles, as a class, came from the AI placing much more material in places we did not want any in, leading to bulky outcomes (see image below).
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;Even if the preview reveals models that look perfect, the actual outcomes may fall short in detail, and the wait time needed for each generative design iteration is too significant to the point you would expect to start a generative design iteration overnight or early in the day for it to finish hours later. When considering all the drawbacks to generative design, it is likely that one may consider it an inefficient method to go about CAD modeling. Nearly all drawbacks point to the fact that the generative design is not a timely efficient process which is ironic given that the AI is supposed to design the whole model itself rather than humans needing to spend time designing the part by hand.
+
+
