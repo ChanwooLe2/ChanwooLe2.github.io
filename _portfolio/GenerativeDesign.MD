@@ -11,14 +11,18 @@ header:
 
 &nbsp;&nbsp;&nbsp;&nbsp;As for our project, we were to work with an electric longboard; more specifically, we were tasked to come up with a design for the hanger and motor mount component through use of generative design. Below are two different components (Nylon 12 and AlSi10Mg) created based on the same given obstacle and preserve geometries. 
 
-#### Nylon 12 Component
+##### Nylon 12 Component
 
 ![alt text](https://ChanwooLe2.github.io//assets/img/Paris1Render.png "Paris 1")
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e8d0b23bf95bdbd57?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-#### AlSi10Mg Component
+##### AlSi10Mg Component
 
 ![alt text](https://ChanwooLe2.github.io//assets/img/Paris2Render.png "Paris 2")
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e7609e01854733bbb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+##Discussion
+&nbsp;&nbsp;&nbsp;&nbsp;Powder bed fusion was our main method in printing the generative design models. As could be observed in the two examples above, the generated components included plenty of rounded edges and/or unpredictable geometries that may be difficult to print via filament printing. Filament printing would be inefficient way to manufacture these components since an overall curved surface will require way more support material than desired (because otherwise bed adhesion would be poor and printability decreases significantly without supports). Not only are breakaway support materials not desirable, but these curved edges are difficult to create with such precision on filament printing due to a fixed print height, meaning that print resolution would be undesirable. 
+&nbsp;&nbsp;&nbsp;&nbsp;Resin printing would be an undesirable method because of the cost and the size of the print (which at max is 210 mm).  
