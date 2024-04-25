@@ -33,6 +33,8 @@ header:
 
 #### Real Life Image of Component with Respect to Longboard
 
+![alt text](https://ChanwooLe2.github.io/assets/img/20240424_165112.jpg "RealLife")
+
 ## Limitations
 
 &nbsp;&nbsp;&nbsp;&nbsp;If paired with highly detailed load cases and a multitude of obstacle geometries that prevents the AI from generating restrictive models (or even incompatible models) generative design has the potential to produce multiple high-quality parts that would take more hours to design by hand. Even if the generated model cannot be used for actual use, some of its favorable attributes may be recycled for the next sets of generative design model or even built upon by hand. Whether or not this technology is an efficient method to design, some degree of success may be achieved, given that it is paired with a spotless load cases and obstacles geometries.
