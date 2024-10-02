@@ -1,9 +1,9 @@
 ---
-title: "Electric Longboard Hanger + Motor Mount"
-excerpt: "As a critical component of the DIY electric longboard, the hanger and motor mount was created mostly through the use of generative design, and it was created while keeping in mind the various forces that may destroy it."
+title: "Dual Locomotion Swimming Robot using Undulating Motion"
+excerpt: "A new research project aimed at developing a swimming robot capable of diving underwater, docking on the inner walls of a pipe, and sensing liquids flowing through."
 header:
-  image: /assets/img/Paris1Render.png
-  teaser: /assets/img/Paris1Render.png
+  image: /assets/img/AF2_png.png
+  teaser: /assets/img/AF2_png.png
    
 ---
 ## Introduction and Generative Design
