@@ -27,9 +27,8 @@ header:
 **image of fin, video of undulating locomotion**
 
 * Prototype for Swimming Membrane Version 2
-&nbsp;&nbsp;&nbsp;&nbsp;Briefly mentioning the prototypical fin systems, two tiny slits were made within each leg so that the membrane may "weave" into each leg thus reducing the work needed to suture each leg and membrane together except for the ends. The lack of a rigid joint allows for flexibility, and 
 
-SLS printing was used for its ability to print small dimensions (~60 microns) due to the use of selective sintering methods onto small plastic powder particles (PA12). 
+&nbsp;&nbsp;&nbsp;&nbsp;Briefly mentioning the prototypical fin systems, two tiny slits were made within each leg so that the membrane may "weave" into each leg thus reducing the work needed to suture each leg and membrane together except for the ends. The lack of a rigid joint allows for a more flexible fin and thus reduces work input since tension within the fin is reduced. SLS printing was used for its ability to print small dimensions (~60 microns) due to the use of selective sintering methods onto small plastic powder particles (PA12). 
 
 
 
