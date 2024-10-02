@@ -9,5 +9,10 @@ header:
 ## Introduction and Project Goals
 &nbsp;&nbsp;&nbsp;&nbsp;The project goals are as follows. We plan to create a robot that is (1) capable of swimming underwater using biomimetic locomotion (undulating motion) and then (2) dock onto the inner surfaces of a pipe to (3) provide information about the fluids flowing through the pipe.
 
-&nbsp;&nbsp;&nbsp;&nbsp;As of Fall 2024, I was tasked to starting the project while my partner, a junior undergraduate student, was finishing up his research paper, but I will speak on behalf of the current progress of the project as a whole.
+&nbsp;&nbsp;&nbsp;&nbsp;As of Fall 2024, I was tasked with starting the project while my partner, a junior undergraduate student, was finishing up his research paper, but I will speak on behalf of the project's current progress as a whole.
 
+**insert image of robot**
+
+##Mechanical Systems:
+
+####Locomotion Module:
