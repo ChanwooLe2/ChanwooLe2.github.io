@@ -13,6 +13,6 @@ header:
 
 **insert image of robot**
 
-##Mechanical Systems:
+## Mechanical Systems:
 
-####Locomotion Module:
+#### Locomotion Module:
