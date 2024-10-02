@@ -14,5 +14,6 @@ header:
 **insert image of robot**
 
 ## Mechanical Systems:
-
 #### Locomotion Module:
+&nbsp;&nbsp;&nbsp;&nbsp;The undulating motion is achieved using 6 sets of four-bar linkage combined with a crankshaft (two in total). 
+
