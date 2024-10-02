@@ -38,7 +38,12 @@ header:
 **video/image of couplers**
 
 #### Buoyancy Control Unit (BCU):
-&nbsp;&nbsp;&nbsp;&nbsp;To control the pitch of the robot, a BCU has been designed to change the center of gravity for the robot and tilt it forward, allowing the robot to swim deeper underwater. A 20N linear actuator with 50 mm reach motion paired with a syringe with 12.8 mm ID makes the foundation for the BCU. 
+&nbsp;&nbsp;&nbsp;&nbsp;To control the pitch of the robot, a BCU has been designed to change the center of gravity for the robot and tilt it forward, allowing the robot to swim deeper underwater. A 20N linear actuator with 50 mm reach motion paired with a syringe with 12.8 mm ID makes the foundation for the BCU. The idea for a BCU has been added to the assembly and is currently being worked on.
+
+#### Magnetic Docking:
+&nbsp;&nbsp;&nbsp;&nbsp;As one of the key components of the project, the idea for magnet docking has been made, but have yet to be developed upon as of now.
+
+
 
 
 
