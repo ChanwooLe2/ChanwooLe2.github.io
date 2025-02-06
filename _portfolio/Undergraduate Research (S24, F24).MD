@@ -18,16 +18,16 @@ header:
 #### Locomotion Module:
 &nbsp;&nbsp;&nbsp;&nbsp;The undulating motion is achieved using 6 sets of four-bar linkage combined with a crankshaft (two in total). The motion as a whole, y-displacement for each member, and tolerancing were all tested and modified using CAD software (Fusion 360), and it is an understatement to mention how important this assembly has been all throughout the project so far. All parts of the mechanical components have been printed using PLA material.
 
-![alt text](https://ChanwooLe2.github.io/assets/img/FINS.jpg "FINS")
+[![Watch the video](https://img.youtube.com/vi/9JpSWnpcBZc/maxresdefault.jpg)](https://youtu.be/9JpSWnpcBZc)
 
 **diagram for each component along with label**
 
 #### Swimming membrane:
 &nbsp;&nbsp;&nbsp;&nbsp;The swimming membrane (or fins) were created using Ecoflex30 (A and B), and the mold used to create such swimming membrane was initially a rectangular mold; modifications, however, have been recently made for a prototypical fin that better suits the inner and outer maximum stretch and shrink in the y-direction of the membrane along with tolerancing. The fin has been mounted onto the leg through suturing (nylon) and secured onto each member. 
 
-**image of fin, video of undulating locomotion**
+[![Watch the video](https://img.youtube.com/vi/9JpSWnpcBZc/maxresdefault.jpg)](https://youtu.be/eOY5sR3GRsE)
 
-* Prototype for Swimming Membrane Version 2
+![alt text](https://ChanwooLe2.github.io/assets/img/FINS.jpg "FINS")
 
 &nbsp;&nbsp;&nbsp;&nbsp;Briefly mentioning the prototypical fin systems, two tiny slits were made within each leg so that the membrane may "weave" into each leg thus reducing the work needed to suture each leg and membrane together except for the ends. The lack of a rigid joint allows for a more flexible fin and thus reduces work input since tension within the fin is reduced. SLS printing was used for its ability to print small dimensions (~60 microns) due to the use of selective sintering methods onto small plastic powder particles (PA12). 
 
