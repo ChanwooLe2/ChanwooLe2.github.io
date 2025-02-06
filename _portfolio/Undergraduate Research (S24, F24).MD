@@ -23,8 +23,10 @@ header:
 #### Swimming membrane:
 &nbsp;&nbsp;&nbsp;&nbsp;The swimming membrane (or fins) were created using Ecoflex30 (A and B), and the mold used to create such swimming membrane was initially a rectangular mold; modifications, however, have been recently made for a prototypical fin that better suits the inner and outer maximum stretch and shrink in the y-direction of the membrane along with tolerancing. The fin has been mounted onto the leg through suturing (nylon) and secured onto each member. 
 
+**Video of Undulating Motion of Fins**
 [![Watch the video](https://img.youtube.com/vi/eOY5sR3GRsE/maxresdefault.jpg)](https://youtu.be/eOY5sR3GRsE)
 
+**Image of the Prototype Fins**
 ![alt text](https://ChanwooLe2.github.io/assets/img/FINS.jpg "FINS")
 
 &nbsp;&nbsp;&nbsp;&nbsp;Briefly mentioning the prototypical fin systems, two tiny slits were made within each leg so that the membrane may "weave" into each leg thus reducing the work needed to suture each leg and membrane together except for the ends. The lack of a rigid joint allows for a more flexible fin and thus reduces work input since tension within the fin is reduced. SLS printing was used for its ability to print small dimensions (~60 microns) due to the use of selective sintering methods onto small plastic powder particles (PA12). 
