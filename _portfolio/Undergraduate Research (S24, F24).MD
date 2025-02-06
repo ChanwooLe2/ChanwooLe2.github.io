@@ -12,7 +12,7 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;As of Fall 2024, I was tasked with starting the project while my partner, a junior undergraduate student, was finishing up his research paper, but I will speak on behalf of the project's current progress as a whole. As for my part of the project, I have been tasked with the mechanical module whereas my partner has been tasked with the electrical module.
 
 # CAD Model
-<iframe src="https://vanderbilt1072.autodesk360.com/shares/public/SH30dd5QT870c25f12fc53809d601e140a44?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt1072.autodesk360.com/shares/public/SH30dd5QT870c25f12fc88571925abfc5c66?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## __Mechanical Systems__
 #### Locomotion Module:
