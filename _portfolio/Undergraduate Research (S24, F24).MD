@@ -18,14 +18,12 @@ header:
 #### Locomotion Module:
 &nbsp;&nbsp;&nbsp;&nbsp;The undulating motion is achieved using 6 sets of four-bar linkage combined with a crankshaft (two in total). The motion as a whole, y-displacement for each member, and tolerancing were all tested and modified using CAD software (Fusion 360), and it is an understatement to mention how important this assembly has been all throughout the project so far. All parts of the mechanical components have been printed using PLA material.
 
-[![Watch the video](https://img.youtube.com/vi/9JpSWnpcBZc/maxresdefault.jpg)](https://youtu.be/9JpSWnpcBZc)
-
 **diagram for each component along with label**
 
 #### Swimming membrane:
 &nbsp;&nbsp;&nbsp;&nbsp;The swimming membrane (or fins) were created using Ecoflex30 (A and B), and the mold used to create such swimming membrane was initially a rectangular mold; modifications, however, have been recently made for a prototypical fin that better suits the inner and outer maximum stretch and shrink in the y-direction of the membrane along with tolerancing. The fin has been mounted onto the leg through suturing (nylon) and secured onto each member. 
 
-[![Watch the video](https://img.youtube.com/vi/eOY5sR3GRsE/maxresdefault.jpg)](https://youtu.be/eOY5sR3GRsE)
+[![Watch the video](https://img.youtube.com/vi/9JpSWnpcBZc/maxresdefault.jpg)](https://youtu.be/9JpSWnpcBZc)
 
 ![alt text](https://ChanwooLe2.github.io/assets/img/FINS.jpg "FINS")
 
