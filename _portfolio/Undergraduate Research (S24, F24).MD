@@ -41,6 +41,7 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;To ensure complete physical isolation between the electrical and mechanical modules, sets of magnetic couplers were used to transmit rotational energies from a motor to the four-bar linkage. The magnetic couplers utilize 6, 3 mm diameter x 10 mm height magnets in alternating polarities. The alternating polarities ensure that even if the magnetic couplers decouple, they can easily couple back.
 
 **video/image of couplers**
+![alt text](https://ChanwooLe2.github.io/assets/img/MagneticDockk.jpg "MagnetCoupler")
 
 #### Buoyancy Control Unit (BCU):
 &nbsp;&nbsp;&nbsp;&nbsp;To control the pitch of the robot, a BCU has been designed to change the center of gravity for the robot and tilt it forward, allowing the robot to swim deeper underwater. A 20N linear actuator with 50 mm reach motion paired with a syringe with 12.8 mm ID makes the foundation for the BCU. The idea for a BCU has been added to the assembly and is currently being worked on.
