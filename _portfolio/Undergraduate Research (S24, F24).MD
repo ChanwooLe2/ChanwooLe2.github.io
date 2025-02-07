@@ -29,18 +29,18 @@ header:
 **Video of Undulating Motion of Fins**
 [![Watch the video](https://img.youtube.com/vi/eOY5sR3GRsE/maxresdefault.jpg)](https://youtu.be/eOY5sR3GRsE)
 
-**Fin Side by Side Comparison**
-![alt text](https://ChanwooLe2.github.io/assets/img/20241018_103717.jpg "New Fins Comparison")
-
 &nbsp;&nbsp;&nbsp;&nbsp;Briefly mentioning the prototypical fin systems, two tiny slits were made within each leg so that the membrane may "weave" into each leg thus reducing the work needed to suture each leg and membrane together except for the ends. The lack of a rigid joint allows for a more flexible fin and thus reduces work input since tension within the fin is reduced. SLS printing was used for its ability to print small dimensions (~60 microns) due to the use of selective sintering methods onto small plastic powder particles (PA12). 
 
 **Image of the Prototype Fins**
 ![alt text](https://ChanwooLe2.github.io/assets/img/FINS.jpg "FINS")
 
+**Fin Side by Side Comparison**
+![alt text](https://ChanwooLe2.github.io/assets/img/20241018_103717.jpg "New Fins Comparison")
+
 #### Magnetic Coupler:
 &nbsp;&nbsp;&nbsp;&nbsp;To ensure complete physical isolation between the electrical and mechanical modules, sets of magnetic couplers were used to transmit rotational energies from a motor to the four-bar linkage. The magnetic couplers utilize 6, 3 mm diameter x 10 mm height magnets in alternating polarities. The alternating polarities ensure that even if the magnetic couplers decouple, they can easily couple back.
 
-**video/image of couplers**
+**Magnetic Couplers Image**
 ![alt text](https://ChanwooLe2.github.io/assets/img/MagneticDockk.jpg "MagnetCoupler")
 
 #### Buoyancy Control Unit (BCU):
