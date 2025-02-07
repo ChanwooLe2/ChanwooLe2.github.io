@@ -18,6 +18,9 @@ header:
 #### Locomotion Module:
 &nbsp;&nbsp;&nbsp;&nbsp;The undulating motion is achieved using 6 sets of four-bar linkage combined with a crankshaft (two in total). The motion as a whole, y-displacement for each member, and tolerancing were all tested and modified using CAD software (Fusion 360), and it is an understatement to mention how important this assembly has been all throughout the project so far. All parts of the mechanical components have been printed using PLA material.
 
+**Full Assembled Robot**
+![alt text](https://ChanwooLe2.github.io/assets/img/FULLY ASSEMBLE.JPG "FULL ASSEMBLY")
+
 **diagram for each component along with label**
 
 #### Swimming membrane:
@@ -26,12 +29,13 @@ header:
 **Video of Undulating Motion of Fins**
 [![Watch the video](https://img.youtube.com/vi/eOY5sR3GRsE/maxresdefault.jpg)](https://youtu.be/eOY5sR3GRsE)
 
-**Image of the Prototype Fins**
-![alt text](https://ChanwooLe2.github.io/assets/img/FINS.jpg "FINS")
+**Fin Side by Side Comparison**
+![alt text](https://ChanwooLe2.github.io/assets/img/20241018_103717.jpg "New Fins Comparison")
 
 &nbsp;&nbsp;&nbsp;&nbsp;Briefly mentioning the prototypical fin systems, two tiny slits were made within each leg so that the membrane may "weave" into each leg thus reducing the work needed to suture each leg and membrane together except for the ends. The lack of a rigid joint allows for a more flexible fin and thus reduces work input since tension within the fin is reduced. SLS printing was used for its ability to print small dimensions (~60 microns) due to the use of selective sintering methods onto small plastic powder particles (PA12). 
 
-**image of prototype fin working onto robot**
+**Image of the Prototype Fins**
+![alt text](https://ChanwooLe2.github.io/assets/img/FINS.jpg "FINS")
 
 #### Magnetic Coupler:
 &nbsp;&nbsp;&nbsp;&nbsp;To ensure complete physical isolation between the electrical and mechanical modules, sets of magnetic couplers were used to transmit rotational energies from a motor to the four-bar linkage. The magnetic couplers utilize 6, 3 mm diameter x 10 mm height magnets in alternating polarities. The alternating polarities ensure that even if the magnetic couplers decouple, they can easily couple back.
