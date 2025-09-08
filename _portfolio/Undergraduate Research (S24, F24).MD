@@ -20,6 +20,7 @@ header:
 
 **Full Assembled Robot**
 ![alt text](https://ChanwooLe2.github.io/assets/img/FULLY ASSEMBLE.JPG "FULL ASSEMBLY")
+<p style="text-align: center;">Brown electrical tape has been used for temporary adhesion for the electrical box to allow for adjustments. The balloon at the front has been attached for temporary buoyancy control.</p>
 
 #### Swimming membrane:
 &nbsp;&nbsp;&nbsp;&nbsp;The swimming membrane (or fins) were created using Ecoflex30 (A and B), and the mold used to create such swimming membrane was initially a rectangular mold; modifications, however, have been recently made for a prototypical fin that better suits the inner and outer maximum stretch and shrink in the y-direction of the membrane along with tolerancing. The fin has been mounted onto the leg through suturing (nylon) and secured onto each member. 
