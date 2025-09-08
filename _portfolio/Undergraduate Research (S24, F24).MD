@@ -16,7 +16,7 @@ header:
 
 ## __Mechanical Systems__
 #### Locomotion Module:
-&nbsp;&nbsp;&nbsp;&nbsp;The undulating motion is achieved using 6 sets of four-bar linkage combined with a crankshaft (two in total). The motion as a whole, y-displacement for each member, and tolerancing were all tested and modified using CAD software (Fusion 360), and it is an understatement to mention how important this assembly has been all throughout the project so far. All parts of the mechanical components have been printed using PLA material.
+&nbsp;&nbsp;&nbsp;&nbsp;The undulating motion is achieved using 6 sets of four-bar linkage combined with a crankshaft (two in total). The motion as a whole, y-displacement for each member, and tolerancing were all tested and modified using CAD software (Fusion 360), and it is an understatement to mention how important this assembly has been all throughout the project so far. All mechanical components have been printed using PLA material except for the crankshaft, which has been powder printed with PA12 material.
 
 **Full Assembled Robot**
 ![alt text](https://ChanwooLe2.github.io/assets/img/FULLY ASSEMBLE.JPG "FULL ASSEMBLY")
